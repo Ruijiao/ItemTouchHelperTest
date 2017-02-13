@@ -9,4 +9,7 @@
         android:layout_height="50dp"
         android:gravity="center"
         android:id="@+id/textView" />
+
+
+
 </LinearLayout>
